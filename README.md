@@ -10,7 +10,7 @@
   - multi processing을 사용한 속도 개선 
   - mysql을 사용한 효율성 개선
   
-#### 2. 머신러닝 모델 학습 (초기) 
+#### 2. 머신러닝 모델 학습 
   - 머신러닝 모델 학습 (XGBoost, logistic regression, )
   - 간단한 딥러닝 모델 학습 
   - 간단한 LSTM 모델 학습 
@@ -19,3 +19,5 @@
   -수익률 계산 
  
 ## 2차 프로젝트: 논문 연구 
+1. 데이터 파악 (label distribution 확인)
+2. 
